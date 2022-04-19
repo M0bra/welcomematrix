@@ -1,0 +1,26 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 15px;
+  font-family: Georgia;
+}
+h1{
+  font-family: Times New Roman;
+  color: green;
+  font-weight: lighter;
+  font-size: 15px;
+}
+h2 {
+  font-family: Times New Roman;
+  color: darkgreen;
+  font-weight: lighter;
+  font-size: 12px;
+}
+a {
+  color: rebeccapurple;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
